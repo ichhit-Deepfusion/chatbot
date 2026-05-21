@@ -1,0 +1,38 @@
+{
+  "session_id": "239ee412-29a9-4ea9-8a0b-23405c007dcb",
+  "title": "what are the major events?",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what are the major events?"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document, the major events of Ekalya are:\n\n**ICT Club Programs:**\n*   36-Hour National Hackathon\n*   Aqua-Robo Soccer Competition\n*   Robo-Wars\n*   Capture the Flag (Cybersecurity Challenge)\n*   E-Sports Championships (PUBG, Free Fire, MLBB, FIFA)\n*   Prompt Engineering for AI Image Generation\n*   Project Demonstration (Tech & Innovation)\n*   Typing Speed Competition\n*   RC Plane & Drone Demonstration\n*   Stargazing Using Telescope\n\n**CESS Programs:**\n*   Civil Engineering Project Demonstration\n*   Popsicle / Paper Bridge Competition\n*   AutoCAD Competition\n*   Survey Competition\n*   Shake Table Demonstration\n*   Earthquake Drilling Demonstration\n*   Math Race\n*   Poetry Competition\n*   Civil Talk / Expert Session\n*   Riddle\n*   Bidding War\n\n**SAARA Programs:**\n*   Architectural Exhibition\n*   Thesis and Student Project Demonstration\n*   Heritage Walk\n*   Panel Discussion & Guest Lectures\n*   Sketch Competition\n*   Architectural Modelling Competition\n*   Pottery Workshop\n*   Themed Classroom Design\n*   Interactive Architecture Games\n*   Awards & Recognition Ceremony\n*   Journal Print\n\n**Programs Conducted Jointly:**\n*   Opening Ceremony & Inauguration\n*   Quiz Competition\n*   Treasure Hunt"
+    },
+    {
+      "role": "user",
+      "content": "what is the total budget of the program?"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the uploaded document, the Grand Total Budget for the program is NPR 13,46,000."
+    },
+    {
+      "role": "user",
+      "content": "who is the secretary of ict?"
+    },
+    {
+      "role": "assistant",
+      "content": "An error occurred: Error calling Gemini API: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The request timed out. Please try again.', 'status': 'UNAVAILABLE'}}"
+    }
+  ],
+  "file_context": "",
+  "last_uploaded_filename": null,
+  "token_tracker_data": {
+    "prompt_tokens": 6558,
+    "completion_tokens": 397,
+    "total_tokens": 7160
+  },
+  "timestamp": 1779341687.433885
+}
